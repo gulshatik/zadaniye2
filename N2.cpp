@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int fib(int n) 
@@ -24,4 +24,4 @@ int main() {
 	fib(n);
 	cout<<fib(n);
 	return 0;
-}*/
+}
